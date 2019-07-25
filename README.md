@@ -1,2 +1,1 @@
-# rps.py
-Rock, Paper and Scissor game  - Python and OOP
+# Python and Object.Oriented program to create a Rock, Paper and scissor game-
